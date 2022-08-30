@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NatalieZorah
-- 👀 I’m interested in leaning new things and exploring what it is like to be a programmer
-- 🌱 I’m currently learning LUA, Java, and a bit of Python
-- 💞️ I’m looking to collaborate on really anything to get my feet wet, I'm eager to learn and what better way than to work with others
+- 👀 I enjoy front end development the most, to be able to see in real time what is happening to your components/elements
+- 🌱 I’m currently a Java Full Stack developer working on building my portfolio as I learn and grow
+- 💞️ I’m looking to collaborate on really anything to get my feet wet, I'm eager to learn and what better way than to work with others. 
 
 <!---
 NatalieZorah/NatalieZorah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
